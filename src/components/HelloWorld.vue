@@ -1,7 +1,7 @@
 <template>
   <h1>{{ msg }}</h1>
   <button @click="count++">count is: {{ count }}</button>
-  <p>Test</p>
+  <p>Test--</p>
 </template>
 
 <script>
